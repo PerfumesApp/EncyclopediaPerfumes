@@ -1,5 +1,4 @@
-# موسوعة · Encyclopedia
-
+# موسوعة  Encyclopedia
 A local-first, offline, bilingual (English / Arabic) encyclopedia app for Android,
 built with React + Vite + Capacitor. All data lives on the device (IndexedDB) —
 no server, no account, no tracking.
